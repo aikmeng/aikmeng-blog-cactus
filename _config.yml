@@ -17,7 +17,8 @@ nav:
   home: /
   about: /about/
   articles: /archives/
-  projects: http://github.com/aikmeng
+  projects: /projects/
+  presentations: /presentations/
 
 
 # Links to your social media accounts.
